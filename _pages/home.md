@@ -1,14 +1,15 @@
 ---
-title: "Secure Learning and Control Lab - Home"
+title: "Analysis of Nuclear Reactor Operations - Home"
 layout: homelay
-excerpt: "Secure Learning and Control Lab at Uppsala University."
+excerpt: "Analysis of Nuclear Reactor Operations Group at UNHAN RI."
 sitemap: false
 permalink: /
 ---
 
 ### Vision
-Our vision is to develop methodologies for designing intelligent autonomous decision-making systems that are secure and resilient against malicious adversaries and natural failures. 
+Our vision is to develop methodologies for understanding nuclear reactor operations. 
 
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -18,7 +19,7 @@ Our vision is to develop methodologies for designing intelligent autonomous deci
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
- 
+
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
@@ -46,7 +47,7 @@ Our vision is to develop methodologies for designing intelligent autonomous deci
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+ -->
 
 ### Research
 Our research incorporates elements from cybersecurity, control theory, optimization and machine learning, reinforcement learning, game-theory and networked / distributed systems. You can find an overview of some of our research themes at our [Research page](research).
@@ -57,7 +58,7 @@ We are a dynamic research group at the [Department of Information Technology, Up
 
  **We are looking for driven new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
-
+<!--
 ### Our support
 We are grateful for the early-career funding from [Uppsala University](http://www.it.uu.se), the [Knut and Alice Wallenberg Foundation](https://kaw.wallenberg.org/) ([Wallenberg Academy Fellow](https://kaw.wallenberg.org/en/andre-teixeira)), the [Swedish Research Council](https://www.vr.se) ([Starting Grant](https://www.vr.se/english/applying-for-funding/calls/2018-03-07-starting-grant-within-natural-and-engineering-sciences.html)), and the [Swedish Foundation for Strategic Research](https://strategiska.se) ([Future Research Leaders Grant](https://strategiska.se/en/research/ongoing-research/framtidens-forskningsledare-7/)).
 
@@ -84,7 +85,7 @@ We are grateful for the early-career funding from [Uppsala University](http://ww
 </div>
 
 </div>
-
-See our funding and ongoing projects at our [Funding page](funding).
+-->
+<!-- See our funding and ongoing projects at our [Funding page](funding). -->
  
  

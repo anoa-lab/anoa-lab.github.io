@@ -1,8 +1,5 @@
 source 'https://rubygems.org'
 
-gem "jekyll", ">= 3.10"
-# gem "github-pages", "~> 232", group: :jekyll_plugins
-
-
-gem 'jekyll-scholar', group: :jekyll_plugins
+gem "jekyll", "~> 4.4"
+gem "jekyll-scholar", "~> 7.3"
 gem "webrick", "~> 1.7"
