@@ -9,10 +9,9 @@ permalink: /
 ### Vision
 Our vision is to develop methodologies for understanding nuclear reactor operations. 
 
-<!--
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
+<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<!--     <!-- Menu -->
+<!--     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
@@ -21,7 +20,7 @@ Our vision is to develop methodologies for understanding nuclear reactor operati
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+<!--     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECC2024_Outside.jpg" height="4" alt="Slide 1" />
         </div>
@@ -47,7 +46,7 @@ Our vision is to develop methodologies for understanding nuclear reactor operati
     <span class="sr-only">Next</span>
   </a>
 </div>
- -->
+-->
 
 ### Research
 Our research incorporates elements from cybersecurity, control theory, optimization and machine learning, reinforcement learning, game-theory and networked / distributed systems. You can find an overview of some of our research themes at our [Research page](research).
