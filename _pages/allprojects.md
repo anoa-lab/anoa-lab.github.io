@@ -36,7 +36,7 @@ permalink: /allprojects.html
 </div></div>
 
 <div class="collapse" id="{{project.key}}-bib"><div class="well-abs"><div class="publications">
-{% bibliography -f uscl_publications -q @*[grant={{project.key}} || granta={{project.key}} || grantb={{project.key}} || grantc={{project.key}}]* %}
+{% bibliography -f anoa_publications -q @*[grant={{project.key}} || granta={{project.key}} || grantb={{project.key}} || grantc={{project.key}}]* %}
 </div></div></div>
 
 </div>
@@ -71,7 +71,7 @@ permalink: /allprojects.html
 </div></div>
 
 <div class="collapse" id="{{project.key}}-bib"><div class="well-abs"><div class="publications">
-{% bibliography -f uscl_publications -q @*[grant={{project.key}} || granta={{project.key}} || grantb={{project.key}} || grantc={{project.key}}]* %}
+{% bibliography -f anoa_publications -q @*[grant={{project.key}} || granta={{project.key}} || grantb={{project.key}} || grantc={{project.key}}]* %}
 </div></div></div>
 
 

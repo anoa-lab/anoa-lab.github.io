@@ -42,7 +42,7 @@ permalink: /research/research_results/
 <div class="collapse" id="{{theme-item.key}}-bib"><div class="well-abs"><div class="publications">
 {%- for y in page.tags %}
 {%- if y == theme-item.tag -%}
-{% bibliography -f uscl_publications -q @*[tag={{y}}]* %}
+{% bibliography -f anoa_publications -q @*[tag={{y}}]* %}
 {% endif %}
 {% endfor %}
 </div></div></div>
@@ -64,7 +64,7 @@ permalink: /research/research_results/
 <div class="collapse" id="{{theme-item.key}}-bib"><div class="well-abs"><div class="publications">
 {%- for y in page.tags %}
 {%- if y == theme-item.tag -%}
-{% bibliography -f uscl_publications -q @*[tag={{y}}]* %}
+{% bibliography -f anoa_publications -q @*[tag={{y}}]* %}
 {% endif %}
 {% endfor %}
 </div></div></div>
