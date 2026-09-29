@@ -33,9 +33,9 @@ permalink: /team/
 </style>
 
 # Group Members
-
+<!--
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
-
+-->
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students).
 {::comment}
@@ -59,8 +59,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   </div>
 
   <p style="clear:both;"></p>
-  <button class="button black" onclick="window.location.href='{{ member.website }}'" type="button">
-  {{ member.name }}'s Personal Website</button>
+  <button class="button black" onclick="window.location.href='mailto:{{ member.email }}'" type="button">
+  {{ member.name }}'s Email</button>
 
 </div>
 
@@ -100,7 +100,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
+<!--
 ## Alumni
 ### Former PhDs and Postdocs
 
@@ -171,3 +171,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
+-->

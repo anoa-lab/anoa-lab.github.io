@@ -3,18 +3,17 @@ title: "Analysis of Nuclear Reactor Operations - Publications"
 layout: gridlay
 excerpt: "Analysis of Nuclear Reactor Operations -- Publications."
 sitemap: false
-years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010]
+years: [2026, 2025, 2024, 2022, 2021, 2018]
 permalink: /publications/
 ---
 <!-- _pages/publications.md -->
 
 # Publications
 
-(See also the personal webpage of our group members)
-
+<!--
 ## Group Highlights
 
-(For a full list of publications, see [below](#list-of-publications), and see also the personal webpage of our group members)
+(For a full list of publications, see [below](#list-of-publications).
 
 
 {% assign number_printed = 0 %}
@@ -69,7 +68,7 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
-
+-->
 
 ## List of Publications
 

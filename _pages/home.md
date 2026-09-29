@@ -75,8 +75,6 @@ Our research environment brings together researchers and students with diverse b
 
 ANOA actively engages in research collaborations with academic institutions, government research organizations, and international research partners. Through these collaborations, we seek to exchange knowledge, develop new computational methodologies, and address challenging problems in nuclear reactor science and technology.
 
-We also aim to provide an open and collaborative environment for students and early-career researchers to develop their scientific skills through research projects, code development, scientific discussions, and international collaboration. By connecting local expertise with the broader international nuclear research community, ANOA strives to contribute to the development of reliable computational tools and innovative approaches for the analysis and operation of future nuclear energy systems.
-
 <!--
 We exchange ideas and work with our colleagues from the several of the Department's research areas, namely [Cybersecurity](https://www.it.uu.se/research/cybersecurity), [AI](https://www.it.uu.se/research/artificial-intelligence), [Data Science](https://www.it.uu.se/research/data-science), and [Control Systems](https://www.it.uu.se/research/control-and-dynamical-systems). We also have ongoing collaborations with our neighboring Department of Electrical Engineering. We are driving local research initiatives related to cybersecurity, through the [Graduate School in Cybersecurity](http://www.it.uu.se/research/research-arenas/security/graduate_school) and the [Cybersecurity Arena](http://www.it.uu.se/research/research-arenas/security).
 -->

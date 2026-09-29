@@ -10,19 +10,9 @@ permalink: /research/
 # Our Research
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/anoa-logo.png" class="img-responsive" width="15%" style="float: left"/>
 
-Our vision is to develop methodologies for designing intelligent autonomous decision-making systems that are secure and resilient against malicious adversaries and natural failures. 
+Our vision is to advance nuclear reactor science and technology through rigorous reactor analysis, computational modeling, and innovative approaches to reactor monitoring and diagnostics.
 
-To do so, we look into these sytems from a security perspective, under various adversary models. Specifically, we develop techniques to assess the risk (i.e., impact and likelihood) of adversaries and failures, and propose methodologies to design and systematically deploy defense measures to prevent, detect, and mitigate malicious attacks and natural disruptive events. In our research, we combine methodologies from cybersecurity, control theory, optimization and machine learning, game-theory and networked systems.
-
-[//]: # (For a high-level summary of a selection of our results, see [Research Results](research_results).)
-
-Have a look at a popular science video about our research on developing secure control systems. You can also find some of our recent research themes described at the end of this page.
-
-## Popular science video
-{% include youtubePlayer.html id="k01OGxClLXE?si=Awnl9VCWb7bxCm_F" %}
-
-
-
+ANOA aims to develop a strong research environment that combines fundamental reactor physics, numerical methods, and computational tools to address emerging challenges in the design, operation, and safety of nuclear energy systems.
 
 
 ## Selected research themes
@@ -97,7 +87,5 @@ Have a look at a popular science video about our research on developing secure c
 
 <p> &nbsp; </p>
 
-
-[//]: # (**Watermarking schemes for attack detection:**)
 
 ### ... and more.
