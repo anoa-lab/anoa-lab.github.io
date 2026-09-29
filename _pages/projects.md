@@ -1,7 +1,7 @@
 ---
-title: "Secure Learning and Control Lab - Projects"
+title: "Analysis of Nuclear Reactor Operations - Projects"
 layout: textlay
-excerpt: "Secure Learning and Control Lab -- Projects."
+excerpt: "Analysis of Nuclear Reactor Operations -- Projects."
 sitemap: false
 permalink: /projects/
 ---

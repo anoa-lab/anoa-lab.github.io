@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 layout: textlay
-excerpt: "Secure Learning and Control Lab at Uppsala University."
+excerpt: "Analysis of Nuclear Reactor Operations at Uppsala University."
 sitemap: false
 permalink: /allprojects.html
 ---

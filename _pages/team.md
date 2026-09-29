@@ -1,5 +1,5 @@
 ---
-title: "Secure Learning and Control Lab - Team"
+title: "Analysis of Nuclear Reactor Operations - Team"
 layout: gridlay
 excerpt: "Team members"
 sitemap: false

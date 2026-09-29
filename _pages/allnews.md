@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Secure Learning and Control Lab at Uppsala University."
+excerpt: "Analysis of Nuclear Reactor Operations at UNHAN RI."
 sitemap: false
 permalink: /allnews.html
 ---

@@ -8,6 +8,7 @@
 # Site settings
 title: Analysis of Nuclear Reactor Operations at UNHAN RI
 email: harunardi13@gmail.com
+current_academic_year: 2026/2027
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Analysis of Nuclear Reactor Operations at UNHAN RI.
 baseurl: ""
@@ -22,6 +23,11 @@ sass:
 
 plugins:
   - jekyll-scholar
+
+collections:
+  courses:
+    output: true
+    permalink: /teaching/:name/
 
 # Conversion
 markdown: kramdown
