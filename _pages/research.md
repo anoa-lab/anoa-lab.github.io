@@ -3,7 +3,7 @@ title: "Analysis of Nuclear Reactor Operations - Research"
 layout: gridlay2
 excerpt: "Analysis of Nuclear Reactor Operations -- Research"
 sitemap: false
-tags: [10001, 10002,10003, 10004, 10005, 10006]
+tags: [10001, 10002, 10005, 10006, 10007]
 permalink: /research/
 ---
 
@@ -58,7 +58,6 @@ ANOA aims to develop a strong research environment that combines fundamental rea
   {% endif %}
   <h3><pubtit>{{ theme-item.title }}</pubtit></h3>
   {{ theme-item.description }}
-  <p>Team members: <em>{{ theme-item.authors }}</em></p>
   <p class="text-danger"><strong> {{ theme-item.news1 }}</strong></p>
   <p> {{ theme-item.news2 }}</p>
   <a data-toggle="collapse" href="#{{theme-item.key}}-bib"  class="btn-bib" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false">Selected papers</a>

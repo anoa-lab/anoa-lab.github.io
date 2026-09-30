@@ -2,9 +2,8 @@
   key: "neutron-noise"
   hasimage: 1
   width: 50%
-#  image: cvar.png
+  image: noise-plot.png
   description: Investigation of neutron fluctuations as a means of understanding and monitoring reactor behavior. Research includes neutron-noise modeling, reactor component and fuel-assembly vibrations, Green’s-function methods, source reconstruction and unfolding, detector response, and computational approaches for reactor diagnostics.
-#  authors:  
   year: 2025
   tag: 10001
   highlight: 1
@@ -16,9 +15,8 @@
   key: "advanced-reactor-modeling"
   hasimage: 1
   width: 70%
-#  image: FedML2.png
+  image: lethargy.png
   description:  "Development and application of computational models for analyzing the neutronic, kinetic, and operational behavior of advanced nuclear reactors. This includes research on small modular reactors, microreactors, high-temperature gas-cooled reactors, and other emerging reactor concepts."
-#  authors:  
   year: 2019
   tag: 10002
   highlight: 1
@@ -26,15 +24,13 @@
   news2: 
   long: 0
 
-
 - title: "Nuclear Reactor Analysis Code Development"
   hasimage: 1
   width: 60%
-#  image: GCM.jpg
+  image: trial_triangulation_new.png
   description:  "Development of reliable and efficient computational tools for nuclear reactor analysis. Research includes numerical methods, neutron transport and diffusion calculations, reactor kinetics, eigenvalue and fixed-source problems, and the development of specialized simulation codes for reactor physics applications."
-#  authors:  
-  year: 2024
-  tag: 10003
+  year: 2023
+  tag: 10005
   highlight: 1
   news1:
   news2: 
