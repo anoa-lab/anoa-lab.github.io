@@ -8,12 +8,13 @@ permalink: /research/
 ---
 
 # Our Research
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/anoa-logo.png" class="img-responsive" width="15%" style="float: left"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/anoa-logo.png" class="img-responsive" width="15%" style="float: left; margin-right: 25px; margin-bottom: 15px;"/>
 
 Our vision is to advance nuclear reactor science and technology through rigorous reactor analysis, computational modeling, and innovative approaches to reactor monitoring and diagnostics.
 
 ANOA aims to develop a strong research environment that combines fundamental reactor physics, numerical methods, and computational tools to address emerging challenges in the design, operation, and safety of nuclear energy systems.
 
+<div style="clear: both;"></div>
 
 ## Selected research themes
 {% assign paper_show = true %}

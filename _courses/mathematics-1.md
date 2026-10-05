@@ -37,7 +37,7 @@ Please note that all the lecture notes are in Indonesian.
 | 2 | Functions and Mathematical Models | [Lecture Notes]({{ site.baseurl }}/assets/courses/mathematics-1/lecture-02.pdf) |
 | 3 | Limits and Differentiation: Intro to limit, Calculating limit, Properties of limit | [Lecture Notes]({{ site.baseurl }}/assets/courses/mathematics-1/lecture-03.pdf) |
 | 4 | Limits and Differentiation: Precise definition of limit, limit to infinity, continuity, derivative as a function | [Lecture Notes]({{ site.baseurl }}/assets/courses/mathematics-1/lecture-04.pdf) |
-| 5 | Differentiation Rules: Polynomial and exponential functions, Product rule and quotient rule, trigonomtry | -- |
+| 5 | Differentiation Rules: Polynomial and exponential functions, Product rule and quotient rule, trigonomtry | [Lecture Notes]({{ site.baseurl }}/assets/courses/mathematics-1/lecture-05.pdf) |
 | 6 | Differentiation Rules: Chain rule, Implicit differentiation, Inverse and Logarithmic function | -- |
 | 7 | Differentiation Rules: Exponential growth and decay, Related rates, Linear and differential approximation, Hyperbolic functions | -- |
 | 8 | Midterm Exam | -- |
