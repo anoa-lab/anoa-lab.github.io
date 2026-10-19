@@ -39,7 +39,7 @@ Please note that all the lecture notes are in Indonesian.
 | 4 | Limits and Differentiation: Precise definition of limit, limit to infinity, continuity, derivative as a function | [Lecture Notes]({{ site.baseurl }}/assets/courses/mathematics-1/lecture-04.pdf) |
 | 5 | Differentiation Rules: Polynomial and exponential functions, Product rule and quotient rule | [Lecture Notes]({{ site.baseurl }}/assets/courses/mathematics-1/lecture-05.pdf) |
 | 6 | Differentiation Rules: Derivative of trigonometric functions, Chain rule, Implicit differentiation, Inverse and Logarithmic function | [Lecture Notes]({{ site.baseurl }}/assets/courses/mathematics-1/lecture-06.pdf) |
-| 7 | Differentiation Rules: Exponential growth and decay, Related rates, Linear and differential approximation, Hyperbolic functions | -- |
+| 7 | Differentiation Rules: Exponential growth and decay, Related rates, Linear and differential approximation, Hyperbolic functions | [Lecture Notes]({{ site.baseurl }}/assets/courses/mathematics-1/lecture-07.pdf) |
 | 8 | Midterm Exam | -- |
 | 9 | Applications of Differentiation: Maximum and minimum values, Mean value theorem, Indeterminate form and l'Hospital rule | -- |
 | 10 | Applications of Differentiation: Optimization problems, Newton's method, Antiderivatives | -- |
