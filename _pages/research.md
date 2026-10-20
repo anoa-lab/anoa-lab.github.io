@@ -1,14 +1,14 @@
 ---
-title: "Secure Learning and Control Lab - Research"
+title: "Analysis of Nuclear Reactor Operations - Research"
 layout: gridlay2
-excerpt: "Secure Learning and Control Lab -- Research"
+excerpt: "Analysis of Nuclear Reactor Operations -- Research"
 sitemap: false
-tags: [10001, 10002,10003, 10004, 10005, 10006]
+tags: [10001, 10002, 10005, 10006, 10007]
 permalink: /research/
 ---
 
 # Our Research
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/anoa-logo.png" class="img-responsive" width="15%" style="float: left"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/group_logo_medium.png" class="img-responsive" width="15%" style="float: left"/>
 
 Our vision is to develop methodologies for designing intelligent autonomous decision-making systems that are secure and resilient against malicious adversaries and natural failures. 
 
@@ -53,7 +53,7 @@ Have a look at a popular science video about our research on developing secure c
 <div class="collapse" id="{{theme-item.key}}-bib"><div class="well-abs"><div class="publications">
 {%- for y in page.tags %}
 {%- if y == theme-item.tag -%}
-{% bibliography -f uscl_publications -q @*[tag={{y}}]* %}
+{% bibliography -f anoa_publications -q @*[tag={{y}}]* %}
 {% endif %}
 {% endfor %}
 </div></div></div>
@@ -68,14 +68,13 @@ Have a look at a popular science video about our research on developing secure c
   {% endif %}
   <h3><pubtit>{{ theme-item.title }}</pubtit></h3>
   {{ theme-item.description }}
-  <p>Team members: <em>{{ theme-item.authors }}</em></p>
   <p class="text-danger"><strong> {{ theme-item.news1 }}</strong></p>
   <p> {{ theme-item.news2 }}</p>
   <a data-toggle="collapse" href="#{{theme-item.key}}-bib"  class="btn-bib" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false">Selected papers</a>
 <div class="collapse" id="{{theme-item.key}}-bib"><div class="well-abs"><div class="publications">
 {%- for y in page.tags %}
 {%- if y == theme-item.tag or y == theme-item.taga -%}
-{% bibliography -f uscl_publications -q @*[tag={{y}} || taga={{y}}]]* %}
+{% bibliography -f anoa_publications -q @*[tag={{y}} || taga={{y}}]]* %}
 {% endif %}
 {% endfor %}
 </div></div></div>
@@ -97,7 +96,5 @@ Have a look at a popular science video about our research on developing secure c
 
 <p> &nbsp; </p>
 
-
-[//]: # (**Watermarking schemes for attack detection:**)
 
 ### ... and more.
